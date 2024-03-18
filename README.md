@@ -1,4 +1,4 @@
-### Olá, mundo! 👋
+### 🙋🏻‍♂️
 
 Eu sou um desenvolvedor Fullstack com mais de 15 anos de experiência, apaixonado por criar e otimizar aplicações web. Resolver problemas complexos é o que me motiva a aprender e crescer profissionalmente todos os dias.
 
