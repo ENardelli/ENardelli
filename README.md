@@ -1,7 +1,7 @@
 🙋🏻‍♂️ Eu sou um desenvolvedor Fullstack com mais de 15 anos de experiência, apaixonado por criar e otimizar aplicações web. Resolver problemas complexos é o que me motiva a aprender e crescer profissionalmente todos os dias.
 
-O que eu faço:
-Desenvolvimento Fullstack: Construo aplicações robustas do zero, cuidando tanto do front-end quanto do back-end.
+<strong>O que eu faço:</strong><br>
+<strong>Desenvolvimento Fullstack:</strong> Construo aplicações robustas do zero, cuidando tanto do front-end quanto do back-end.<br>
 <strong>Design UX/UI:</strong> Desenvolvo interfaces que não só parecem boas, mas também proporcionam uma experiência de usuário fluida e intuitiva.
 Otimização: Aplico técnicas avançadas para melhorar o desempenho e a acessibilidade das aplicações.
 SEO: Implemento estratégias de SEO para garantir que as aplicações se destaquem nos motores de busca.
