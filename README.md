@@ -15,8 +15,6 @@
 - **Marketing Digital**: Conhecimento em promover produtos digitais
 - **Qualidade Premium**: Compromisso com código limpo e melhores práticas
 
-Estou sempre aberto a colaborar em projetos interessantes e a contribuir para a comunidade. Confira meus repositórios para ver o que estou construindo!
-
 
 
 
