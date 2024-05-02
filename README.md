@@ -1,4 +1,4 @@
-🙋🏻‍♂️ Eu sou um desenvolvedor Fullstack com mais de 15 anos de experiência . Resolvo problemas complexos.
+🙋🏻‍♂️ Eu sou um desenvolvedor Fullstack com mais de 15 anos de experiência resolvendo problemas.
 
 ### O que eu faço:
  
