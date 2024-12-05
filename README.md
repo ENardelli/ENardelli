@@ -24,12 +24,9 @@ Um pouco do que eu faço:
     <img src="https://w7.pngwing.com/pngs/705/678/png-transparent-transport-layer-security-computer-icons-encryption-business-public-key-certificate-2green-text-logo-payment-thumbnail.png" alt="SSL" width="40" height="40"/>
 </p>  
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ENardelli&show_icons=true&theme=radical)
 
-# Minhas Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ENardelli&show_icons=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ENardelli&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ENardelli&layout=compact&theme=radical)
 
 
 
