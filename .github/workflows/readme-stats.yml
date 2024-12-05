@@ -1,0 +1,15 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Atualiza a cada hora
+  workflow_dispatch: # Permite executar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: anuraghazra/github-readme-stats@latest
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
