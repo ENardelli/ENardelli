@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: anuraghazra/github-readme-stats@v2.0.0
+    - uses: anuraghazra/github-readme-stats@v1.0.0
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }} # Use o nome do seu Secret aqui
