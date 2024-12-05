@@ -25,6 +25,14 @@ Um pouco do que eu faço:
 </p>  
 
 
+# Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ENardelli&show_icons=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ENardelli&layout=compact)
+
+
+
 ---
 
 <div align="center">
